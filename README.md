@@ -37,11 +37,9 @@
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
 
 # 📊 GitHub Stats:
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-yuki-kun&theme=dark&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kawaii-yuki-kun&limit=5&theme=dark&combine_all_yearly_contributions=true)
