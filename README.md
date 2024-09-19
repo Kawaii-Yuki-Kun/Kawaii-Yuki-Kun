@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on: Building a universe where bugs are just "features."<br>🤝 I’m collaborating with Lokalee: Because teamwork makes the bug count double.<br>🆘 I’m looking for help with: Finding the semicolon I missed somewhere in my code.<br>🌱 I’m currently learning Godot: Trying to make pixels do my bidding.<br>💬 Ask me about: How I accidentally broke production… again.<br>⚡ Fun fact: I once fixed a bug by doing absolutely nothing. True story.
+🛠️ I’m currently working on: Building a universe where bugs are just "features".<br>🤝 I’m collaborating with Lokalee: Because teamwork makes the bug count double.<br>🆘 I’m looking for help with: Finding the semicolon I missed somewhere in my code.<br>🌱 I’m currently learning Godot: Trying to make pixels do my bidding.<br>💬 Ask me about: How I accidentally broke production… again.<br>⚡ Fun fact: I once fixed a bug by doing absolutely nothing. True story.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kawaiiyukikun) 
