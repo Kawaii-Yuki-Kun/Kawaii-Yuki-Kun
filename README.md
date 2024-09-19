@@ -65,7 +65,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kawaii-yuki-kun&theme=darkhub)
 
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="flex: 1; max-width: 32%; min-width: 300px; height: 200px;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="flex: 1; max-width: 32%; min-width: 300px; height: 200px;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-yuki-kun&theme=dark&hide_border=false" style="flex: 1; max-width: 32%; min-width: 300px; height: 200px;"/>
