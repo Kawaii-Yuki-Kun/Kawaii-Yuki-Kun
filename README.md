@@ -49,3 +49,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kawaii-yuki-kun&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Followers](https://img.shields.io/github/followers/kawaii-yuki-kun?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/kawaii-yuki-kun?style=social)
+
