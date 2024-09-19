@@ -49,7 +49,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kawaii-yuki-kun&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🎨 Skills:
-- **JavaScript** ![90%](https://progress-bar.dev/90)
-- **Python** ![80%](https://progress-bar.dev/80)
