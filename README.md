@@ -65,9 +65,13 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kawaii-yuki-kun&theme=darkhub)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-yuki-kun&theme=dark&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>  
-
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-yuki-kun&theme=dark&hide_border=false"/></td>
+  </tr>
+</table>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kawaii-yuki-kun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
