@@ -47,6 +47,34 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kawaii-yuki-kun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🛠️ Languages and Tools:
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/Repo-GitHub-black?style=flat&logo=github)
+![NodeJS](https://img.shields.io/badge/Runtime-Node.js-green?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react)
+![Godot](https://img.shields.io/badge/Game%20Engine-Godot-478CBF?style=flat&logo=godot-engine)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Language-Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat&logo=c%2B%2B)
+![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=flat&logo=gnu-bash)
+![Jira](https://img.shields.io/badge/Tools-Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat&logo=docker)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-009639?style=flat&logo=nginx)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat&logo=firebase)
+![TailwindCSS](https://img.shields.io/badge/CSS%20Framework-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![SASS](https://img.shields.io/badge/Preprocessor-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Webpack](https://img.shields.io/badge/Build%20Tool-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/IoT-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)
+![Ansible](https://img.shields.io/badge/Automation-Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
+
+## 🌙 Fun Badges:
+![Night Owl](https://img.shields.io/badge/Night%20Owl-%23000000.svg?style=flat&logo=owl&logoColor=white)
+![Tea Lover](https://img.shields.io/badge/Tea%20Lover-%23007396.svg?style=flat&logo=leaf&logoColor=white)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kawaii-yuki-kun&icon=0&color=0)](https://visitcount.itsvg.in)
 ![GitHub Followers](https://img.shields.io/github/followers/kawaii-yuki-kun?style=social)
