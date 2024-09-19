@@ -22,23 +22,23 @@
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ## 🎨 Frontend:
-[![Ajax](https://img.shields.io/badge/Ajax-%2300ADD8.svg?style=flat&logo=ajax&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-[![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/CSS%20Framework-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
-[![SASS](https://img.shields.io/badge/Preprocessor-SASS-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Webpack](https://img.shields.io/badge/Build%20Tool-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)](https://webpack.js.org/)
+![Ajax](https://img.shields.io/badge/Ajax-%2300ADD8.svg?style=for-the-badge&logo=ajax&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ## 🛠️ Backend:
-[![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat&logo=docker)](https://www.docker.com/)
-[![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat&logo=firebase)](https://firebase.google.com/)
-[![Godot](https://img.shields.io/badge/Game%20Engine-Godot-478CBF?style=flat&logo=godot-engine)](https://godotengine.org/)
-[![NodeJS](https://img.shields.io/badge/Runtime-Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
-[![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-009639?style=flat&logo=nginx)](https://www.nginx.com/)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 🗄️ Databases:
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kawaii-yuki-kun&theme=darkhub)
