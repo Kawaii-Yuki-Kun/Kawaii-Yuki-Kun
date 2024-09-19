@@ -36,6 +36,9 @@
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
 
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=kawaii-yuki-kun&theme=darkhub)
+
 # 📊 GitHub Stats:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-yuki-kun&theme=dark&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=kawaii-yuki-kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
@@ -47,4 +50,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kawaii-yuki-kun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎨 Skills:
+- **JavaScript** ![90%](https://progress-bar.dev/90)
+- **Python** ![80%](https://progress-bar.dev/80)
