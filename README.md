@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on: Building a universe where bugs are just "features".<br>🤝 I’m collaborating with Lokalee: Because teamwork makes the bug count double.<br>🆘 I’m looking for help with: Finding the semicolon I missed somewhere in my code.<br>🌱 I’m currently learning Godot: Trying to make pixels do my bidding.<br>💬 Ask me about: How I accidentally broke production… again.<br>⚡ Fun fact: I once fixed a bug by doing absolutely nothing. True story.
+🛠️ I’m currently working on: Building full-stack web apps for clients, from first sketch to production.<br>🚀 I’m working independently: Running my own dev practice, so I’m also the PM, QA and on-call engineer.<br>🤝 I’m open to: Freelance projects and interesting collaborations. Let’s build something.<br>🌱 I’m currently learning Godot: Trying to make pixels do my bidding.<br>💬 Ask me about: Next.js, React, Node.js, databases, and shipping products end to end.<br>⚡ Fun fact: I once fixed a bug by doing absolutely nothing. True story.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kawaiiyukikun) 
